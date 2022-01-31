@@ -1,0 +1,1 @@
+document.write('<header><h1>a website?</h1><nav class="main-nav"><a href="index.html">home</a><a href="projects.html">projects</a><a href="art.html">art</a><a href="blog.html">blog</a></nav></header>')

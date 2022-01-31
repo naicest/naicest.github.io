@@ -1,0 +1,28 @@
+body { 
+    margin-left: 16em;
+    margin-right: 16em;
+    margin-top: 4em;
+
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+footer {
+    text-align: center;
+    margin-top: 4em;
+    margin-bottom: 4em;
+}
+
+.main-nav {
+    position: sticky;
+}
+.main-nav a {
+    display: inline-block;
+    margin-right: 2em;
+    color: midnightblue;
+    text-decoration: none;
+}
+
+.main-nav a:hover {
+    text-decoration: underline;
+}
